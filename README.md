@@ -4,9 +4,9 @@
 
 **On this and all labs for the rest of the semester: When you have a choice between the [datascience package](https://www.data8.org/datascience/) and the [pandas library](https://pandas.pydata.org/docs/), you are free to use either method to complete your work.**
 
-Much of this lab consists of file management.  A [supplementary jupyter notebook]() helps with this.
+Much of this lab consists of file management.  A [supplementary jupyter notebook](https://github.com/DS200-SP2024-Hunter/Week06-DueFeb23/blob/main/Lab06SupplementaryNotebook.ipynb) helps with this.
 
-**Text from SP 2022 Lab #6:**
+**EDIT:  Old Text from SP 2022 Lab #6:**
 
 EDA stands for "exploratory data analysis," a commonly-used abbreviation in statistics and data science.
 The main objective of today's lab is to load a massive dataset and then illustrate a few statistical concepts related to sampling and exploratory data analysis (EDA).
