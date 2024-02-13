@@ -4,6 +4,8 @@
 
 **On this and all labs for the rest of the semester: When you have a choice between the [datascience package](https://www.data8.org/datascience/) and the [pandas library](https://pandas.pydata.org/docs/), you are free to use either method to complete your work.**
 
+Much of this lab consists of file management.  A [supplementary jupyter notebook]() helps with this.
+
 **Text from SP 2022 Lab #6:**
 
 EDA stands for "exploratory data analysis," a commonly-used abbreviation in statistics and data science.
