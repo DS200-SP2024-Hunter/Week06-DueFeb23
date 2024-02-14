@@ -2,9 +2,9 @@
 ## EDA using a massive airline dataset
 ## Due on [Canvas](https://psu.instructure.com/courses/2306358/assignments/15965265) on Fri., Feb. 23 at 11:59pm
 
-**On this and all labs for the rest of the semester: When you have a choice between the [datascience package](https://www.data8.org/datascience/) and the [pandas library](https://pandas.pydata.org/docs/), you are free to use either method to complete your work.**
+**On this and all labs for the rest of the semester: When you have a choice between the [datascience package](https://www.data8.org/datascience/) and the [pandas library](https://pandas.pydata.org/docs/), you are free to use either method to complete your work. HOWEVER, on Lab 6, we strongly recommend using the datascience package, as the file management required here is already tricky.**
 
-Much of this lab consists of file management since one of the files involved is huge.  A [supplementary jupyter notebook](https://github.com/DS200-SP2024-Hunter/Week06-DueFeb23/blob/main/Lab06SupplementaryNotebook.ipynb) helps with this.
+Much of this lab consists of file management since one of the files involved is huge.  A [supplementary jupyter notebook](https://github.com/DS200-SP2024-Hunter/Week06-DueFeb23/blob/main/Lab06SupplementaryNotebook.ipynb) helps with this. **The supplementary notebook uses the datascience package rather than pandas.**
 
 EDA stands for "exploratory data analysis," a commonly-used abbreviation in statistics and data science.
 The main objective of today's lab is to load a massive dataset and then illustrate a few statistical concepts related to sampling and exploratory data analysis (EDA).
